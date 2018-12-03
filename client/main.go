@@ -16,8 +16,8 @@ import (
 	"github.com/golang/snappy"
 	"github.com/pkg/errors"
 	"github.com/urfave/cli"
-	kcp "github.com/xtaci/kcp-go"
-	"github.com/xtaci/smux"
+	kcp "github.com/winstonprivacyinc/kcp-go"
+	"github.com/winstonprivacyinc/smux"
 
 	"path/filepath"
 )
